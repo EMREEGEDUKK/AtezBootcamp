@@ -13,3 +13,4 @@ const multipleInfinityParams = (...args) => {
 
 console.log(multipleInfinityParams(1,2,3,4));
 console.log(multipleInfinityParams(1,2,3,"a"));
+console.log(isNaN(-2));

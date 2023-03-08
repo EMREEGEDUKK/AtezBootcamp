@@ -23,4 +23,5 @@ const calculateFactorial = (n) =>  {
   console.log(calculateFactorial(-2)); 
   console.log(calculateFactorial(4.6));
 
+
   
